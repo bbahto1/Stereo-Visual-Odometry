@@ -1,2 +1,2 @@
-# Visual-odometry
-Stereo visual odometry 
+## Visual-odometry
+Faculty project stereo visual odometry
