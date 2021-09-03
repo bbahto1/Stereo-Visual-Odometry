@@ -1,2 +1,3 @@
-## Visual-odometry
-Faculty project stereo visual odometry
+## README.md
+Stereo visual odometry project 
+Faculty of electrical engineering
