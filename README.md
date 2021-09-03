@@ -1,3 +1,3 @@
 ## README.md
-Stereo visual odometry project 
+Stereo visual odometry project <br />
 Faculty of electrical engineering
