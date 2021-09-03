@@ -2,7 +2,7 @@
 1) First of all check the python version you have on your device.
 2) Your python version should be python 3.x
 3) If you are using VSCODE on windows or linux operating system start the file with one of these commands
-   3.1) python3 SVO.py 0 1 800 1 or python SVO.py 0 1 800 1
+  3) python3 SVO.py 0 1 800 1 or python SVO.py 0 1 800 1
 4) First argument is the starting number of KITTI sequence, this can be changed accordingly (for more information I advise to look at KITTI datasets), 
 second argument in this case is starting frame, third argument is the ending frame in the sequence 
 (Disclaimer: If the sequence has less frames than the end frame, the processing will stop at the last frame of the sequence), 
