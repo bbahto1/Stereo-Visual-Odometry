@@ -1,3 +1,4 @@
 ## Stereo visual odometry
 Stereo visual odometry project <br />
-Faculty of electrical engineering
+University of Sarajevo <br />
+Faculty of Electrical Engineering
